@@ -1,0 +1,13 @@
+name: fastenv
+channels:
+  - menpo
+  - defaults
+dependencies:
+  - python=3.7.6
+  - jupyterlab
+  - gh
+  - fastai
+  - anaconda
+  - ipywidgets
+  - voila
+prefix: /opt/anaconda3/envs/fastenv
