@@ -2,6 +2,8 @@ name: fastenv
 channels:
   - menpo
   - defaults
+  - fastai
+  - pytorch
 dependencies:
   - python=3.7.6
   - jupyterlab
